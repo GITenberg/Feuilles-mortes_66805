@@ -5,6 +5,9 @@ contributor:
     agent_name: Casimacker
     gutenberg_agent_id: '53973'
     url: http://www.gutenberg.org/2009/agents/53973
+covers:
+- cover_type: archival
+  image_path: 66805-h/images/cover.jpg
 creator:
   author:
     agent_name: Morel, Jacques
@@ -19,6 +22,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jacques_Morel_(writer)
     - https://fr.wikipedia.org/wiki/Jacques_Morel_(%C3%A9crivain)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66805#Feuilles-mortes
 gutenberg_issued: '2021-11-23'
 identifiers:
   gutenberg: '66805'
